@@ -1,0 +1,22 @@
+body{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+h1{
+    text-align: center;
+    /* margin-bottom: 300px; */
+}
+
+.card{
+    /* margin-top: 20px; */
+}
+.form-style{
+
+    width: 600px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+}
